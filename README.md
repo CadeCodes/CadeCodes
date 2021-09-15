@@ -9,19 +9,7 @@
 <p float="left">
   <img alt="cade's contributions" src="https://github-readme-stats.vercel.app/api?username=CadeCodes&theme=dark&count_private=true" />
 </p>
-
-### ✨ About me
-I was born around Paris and I currently am in highschool. I'm most of the time programming or playing some games ([here's my steam page](https://steamcommunity.com/id/lambdagg/)). I may also be cooking or tinkering.\
-I love to contribute to open-source projects and make some on my own.\
-I write stupid software as a part of [@jiktim](https://github.com/jiktim). jiktim. everything jik.
-
-#### 🤔 Technologies and programming language
-- C#, Java & TypeScript for their accessibility and object-oriented concept.
-- HTML/CSS because... uh... writing websites without is hard.
-- JS for its flexibility, development speed and ez pz deployment. TS is still better though.
-- ElectronJS because it is a great framework using the [NodeJS runtime](https://node.js.org) for running cross-platform applications.
-- Python for fast-scripting instead of just using batch or bash.
-- boo bootstrap's lame [@jgthms/bulma](https://github.com/jgthms/bulma) better>>>
-
-#### 👯 Collaborating
-I’m looking forward to collaborating with whoever has well defined ideas ready to be put in motion together!
+#### 👯 Projects
+Currently trying to expand my repository count by making small projects such as [JRRL](https://github.com/CadeCodes/JRRL).
+Also working on multiple minecraft related projects:
+[Galactic Utility Mod](https://galactic.wtf)
