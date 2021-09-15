@@ -5,11 +5,9 @@
 ![Discord](https://img.shields.io/static/v1?label=&message=Cade#1337&logo=discord&logoColor=ffffff&color=5D5D5D&style=flat)
 [![E-mail](https://img.shields.io/static/v1?label=&message=cade@trolling.services&color=5D5D5D&style=flat)](https://jikt.im)
 
-stupid 15-years-old tech enthusiast. they/them\
-I'm always trying to learn new things, such as how to use other frameworks or languages than those I often use.
+
 <p float="left">
-  <img alt="lambdagg's contributions" src="https://github-readme-stats.vercel.app/api?username=lambdagg&theme=dark&count_private=true" />
-  <img alt="lambdagg's Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=lambdagg&theme=dark&layout=compact" /> 
+  <img alt="cade's contributions" src="https://github-readme-stats.vercel.app/api?username=CadeCodes&theme=dark&count_private=true" />
 </p>
 
 ### ✨ About me
