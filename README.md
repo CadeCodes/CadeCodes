@@ -11,5 +11,5 @@ Also working on multiple minecraft related projects:
 
 
 <p float= "left">
-  <img alt="cade's contributions" src="https://github-readme-stats.vercel.app/api?username=CadeCodes&theme=dark&count_private=true" />
+  <img alt="cade's contributions" src="https://github-readme-stats.vercel.app/api?username=CadeCodes&show_icons=true&theme=dark&count_private=true" />
 </p>
