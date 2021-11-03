@@ -10,6 +10,6 @@ Also working on multiple minecraft related projects:
 [Galactic Utility Mod](https://galactic.wtf)
 
 
-<p float="left">
+<p float= "left">
   <img alt="cade's contributions" src="https://github-readme-stats.vercel.app/api?username=CadeCodes&theme=dark&count_private=true" />
 </p>
