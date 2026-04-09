@@ -4,6 +4,6 @@
 ## Projects
 [Exhaustle](https://exhaustle.lol) - A daily puzzle game like Wordle for guessing car engines by their exhaust note.
 
-[Knightro](https://github.com/CadeCodes/Knightro) - A UCI chess engine that uses iterative deepening, quiescence search, and alpha-beta pruning. 
+[Knightro](https://github.com/CadeCodes/Knightro) - A UCI chess engine that utilizes iterative deepening, quiescence search, and alpha-beta pruning. 
 
 
