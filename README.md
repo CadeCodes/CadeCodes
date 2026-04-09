@@ -1,8 +1,8 @@
 ## Hey, I'm Cade 👋
 
 ## Projects
-Exhaustle
-Knightro
-JRRL
+[Exhaustle]
+[Knightro]
+[JRRL]
 
 
