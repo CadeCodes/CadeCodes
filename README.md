@@ -1,8 +1,8 @@
 ## Hey, I'm Cade 👋
 
 ## Projects
-[Exhaustle]
-[Knightro]
-[JRRL]
+[Exhaustle](https://exhaustle.lol)
+[Knightro](https://github.com/CadeCodes/Knightro)
+[JRRL](https://github.com/CadeCodes/JRRL)
 
 
