@@ -1,5 +1,5 @@
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,html,css,cpp,java,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,py,ts,html,css,react,nodejs)](https://skillicons.dev)
 
 ## Projects
 **[Exhaustle](https://exhaustle.lol)** - A daily puzzle game like Wordle for guessing car engines by their exhaust note.
